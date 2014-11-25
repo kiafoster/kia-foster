@@ -24,7 +24,7 @@
   	}
 
   	 nav ul li a:hover{
-  		color: #000000;
+  		color: ##004080;
   	}
 
   	.home .home a,
