@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"asci",
+				"ascihedesc"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"load",
+				"load-content"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"cus",
+				"custom_src"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"add_theme",
+				"add_theme_support"
+			],
+			[
+				"add_the",
+				"add_theme_support"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"css",
+				"css_file"
+			],
+			[
+				"theme",
+				"theme_location"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 209.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/morning/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/morning/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/morning/Desktop/html5doc.html",
+		"/C/Users/morning/AppData/Roaming/Sublime Text 2/Packages/User/snippets/html5.sublime-snippet",
+		"/C/xampp/htdocs/kia-foster/day1/index.php",
+		"/C/Users/morning/Links/kia-foster.lnk",
+		"/C/Users/morning/Desktop/test review",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/sweetsixteens/andrea.html",
+		"/C/Users/morning/Desktop/instances/index.html",
+		"/C/Users/morning/Desktop/instances/pages/about.html",
+		"/C/Users/morning/Desktop/instances/pages/services.html",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/sweetsixteens.html",
+		"/C/Users/morning/Desktop/links.html",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/weddings/timandhannah.html",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/weddings/jakeandlena.html",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/weddings/ashandalex.html",
+		"/C/Users/morning/Desktop/instances/css/style.css",
+		"/C/Users/morning/Desktop/instances/pages/portfolio/weddings.html",
+		"/C/Users/morning/Desktop/instances/css/lightbox.css",
+		"/C/Users/morning/Desktop/instances/pages/employees/victoria.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/shawn.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/robert.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/lexi.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/lawrence.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/jacqueline.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/andrew.html",
+		"/C/Users/morning/Desktop/instances/pages/employees/amy.html",
+		"/C/Users/morning/Desktop/instances/pages/contact.html",
+		"/C/Users/morning/Desktop/instances/pages/termsandconditions.html",
+		"/C/Users/morning/Desktop/instances/pages/sitemap.html",
+		"/C/Users/morning/Desktop/instances/emailblast/index.html",
+		"/C/Users/morning/Desktop/homework/email blast notes",
+		"/C/Users/morning/Desktop/sass_project/sass-temp/stylesheets/screen.css",
+		"/C/Users/morning/Desktop/sass_project/sass-temp/sass/screen.scss",
+		"/C/Users/morning/Desktop/instances/css/reset.css",
+		"//ROOM206HD/WebCampaign/jump/css/style.css",
+		"/C/Users/morning/Desktop/jump/css/style.css",
+		"/C/Users/morning/Desktop/jump/index.html",
+		"//ROOM206HD/WebCampaign/jump lightbox/css/style.css",
+		"//ROOM206HD/WebCampaign/jump lightbox/index.html",
+		"//ROOM206HD/WebCampaign/jump lightbox/css/lightbox.css",
+		"/C/Users/morning/Desktop/junk/css/style.css",
+		"/C/Users/morning/Desktop/junk/index.html",
+		"//ROOM206HD/WebCampaign/social_icons/footer/footer.html",
+		"//ROOM206HD/WebCampaign/social_icons/footer/css/format.css",
+		"//ROOM206HD/WebCampaign/jumptabs/css/style.css",
+		"//ROOM206HD/WebCampaign/jumptabs/index.html",
+		"/C/Users/morning/Desktop/junk/js/slick.min.js",
+		"//ROOM206HD/WebCampaign/social_icons/jump(Chaco)/style.css",
+		"//ROOM206HD/WebCampaign/social_icons/jump(Chaco)/index.html",
+		"/C/Users/morning/Desktop/junk/css/reset.css",
+		"//ROOM206HD/WebCampaign/gradient.txt",
+		"//ROOM206HD/WebCampaign/gradient",
+		"/C/Users/morning/Desktop/instances/js/stickynav.js",
+		"/C/Users/morning/Desktop/instances/js/jquery-scrolltofixed-min.js",
+		"/C/Users/morning/Desktop/css-sticky-position/css/style.css",
+		"/C/Users/morning/Desktop/instances redo/css/style.css",
+		"/C/Users/morning/Desktop/instances redo/index.html",
+		"/C/Users/morning/Desktop/instances redo/js/soundicotoggle.js",
+		"/C/Users/morning/Desktop/instances redo/js/vidmute.js",
+		"/C/Users/morning/Desktop/instances redo/css/style2.css",
+		"/C/Users/morning/Desktop/processor.php",
+		"/C/Users/morning/Desktop/instances/fonts/stylesheet.css",
+		"/C/Users/morning/Desktop/harley/css/style.css",
+		"/C/Users/morning/Desktop/harley/index.html",
+		"/C/Users/morning/Desktop/harley/css/reset.css",
+		"/C/Users/morning/Desktop/selector_review.html",
+		"/C/Users/morning/Desktop/ajax/history.pushState() Example - Part of a demo for #ProSEO.htm",
+		"/C/Users/morning/Desktop/instances/about/index.html",
+		"//ROOM206HD/WebCampaign/lostechies.html",
+		"/C/Users/morning/Desktop/instances/js/history.js",
+		"/C/Users/morning/Desktop/ajaxtabscontent/ajaxtabs/ajaxtabs.js",
+		"/C/Users/morning/Desktop/history-api/index.html",
+		"/C/Users/morning/Desktop/history-api/pages/index.html",
+		"/C/Users/morning/Desktop/history-api/history.js",
+		"/C/Users/morning/Desktop/history-api/style.css",
+		"/C/Users/morning/Desktop/instances - Copy/js/stickynav.js",
+		"/C/Users/morning/Desktop/instances - Copy/css/style.css",
+		"/C/Users/morning/Desktop/instances - Copy/index.html",
+		"/C/Users/morning/Desktop/instances/js/hblack",
+		"/C/Users/morning/Desktop/instances/js/vidmute.js",
+		"/C/Users/morning/Desktop/instances/js/soundicotoggle.js",
+		"/C/Users/morning/Desktop/fonts/reset.css",
+		"/C/Users/morning/Desktop/fonts/style.css",
+		"/C/Users/morning/Desktop/fonts/index.html",
+		"/C/Users/morning/Desktop/instances/css/format.css",
+		"/C/Users/morning/Desktop/alex_kinejara/responsive/index.html",
+		"/C/Users/morning/Desktop/alex_kinejara/responsive/css/style.css",
+		"/C/Users/morning/Desktop/alex_kinejara/responsive/css/reset.css",
+		"/C/Users/morning/Desktop/alex_kinejara/responsive/reset.css",
+		"/C/Users/morning/Desktop/index.html",
+		"/C/Users/morning/Desktop/style.css",
+		"/C/Users/morning/Desktop/onetwo.css",
+		"/C/Users/morning/Desktop/instances/css/video-js.css",
+		"/C/Users/morning/Desktop/instances/js/video.js",
+		"/C/Users/morning/Desktop/onetwo.html",
+		"//ROOM206HD/WebCampaign/logos_rough/alex_kinejarah3/css/style.css",
+		"//ROOM206HD/WebCampaign/logos_rough/alex_kinejarah3/index.html",
+		"/C/Users/morning/Desktop/alex_kinejarah2/css/style.css",
+		"/C/Users/morning/Desktop/alex_kinejarah1/index.html",
+		"/C/Users/morning/Desktop/alex_kinejarah1/css/style.css",
+		"//ROOM206HD/WebCampaign/wccontacts.html",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/page-contact.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/style.css",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/home.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/single.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/front-page.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/footer.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/page-about.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/page-gallery.php",
+		"/C/Users/morning/Desktop/platt_portfolio_project_V4/portfolio/css/style.css",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/front-page-temp.php",
+		"/C/Users/morning/Desktop/platt_portfolio_project_V4/portfolio/index.html",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/searchform.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/header.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/page.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/index.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/contact.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/functions.php",
+		"/C/Users/morning/AppData/Local/Temp/Rar$DRa0.856/demo-files/demo.css",
+		"/C/Users/morning/AppData/Local/Temp/Rar$DRa0.693/style.css",
+		"/C/Users/morning/AppData/Local/Temp/Rar$DRa0.046/style.css",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/js/custom.js",
+		"/C/xampp/htdocs/manny-wordpress-0914/in-class/wp-content/themes/child-2012/style.css",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/sidebar.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/your-project/wp-content/themes/naked/search.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/in-class/wp-config.php",
+		"/C/xampp/htdocs/manny-wordpress-0914/in-class/wp-content/themes/awesome-theme/style.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addi",
+			"enter",
+			"cordinat",
+			"}\n",
+			"a:hover",
+			"wrapper",
+			"home main  ",
+			"home main",
+			"admin bar",
+			"heads",
+			"adm",
+			"nav",
+			"admin",
+			"admin bar",
+			"body",
+			"my c",
+			"footer",
+			"nav",
+			"basic",
+			"nav global",
+			"sb search",
+			"element style",
+			"==Breadcrumbs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/morning/Documents/sublime/manny-wordpress-0914.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true
+}
